@@ -1,2 +1,2 @@
 # Desafio-Git-Dio
-Desafio bootcamp DIO
+Repositorio para desafio de projeto.
